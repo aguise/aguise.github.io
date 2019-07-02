@@ -6,7 +6,7 @@ class NavBar extends Component {
 			            <header>
 			              <ul id="headerButtons">
 			                <li className="navButton"><Link to="">Home</Link></li>
-			                <li className="navButton"><Link to="https://zety.com/mycv/andrew_guise">Resume</Link>/li>
+			                <li className="navButton"><Link to="https://zety.com/mycv/andrew_guise">Resume</Link></li>
 			              </ul>
 			            </header>
 			          )

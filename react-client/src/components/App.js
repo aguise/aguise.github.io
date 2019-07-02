@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route, Link} from 'react-router-dom';
 import { browserHistory } from 'react-router';
 import HomePage from './HomePages';
-import NavBar from './HeaderComponent/NavBar';
+import NavBar from './headerComponent/NavBar';
 class App extends Component {
 	  render() {
 		      return (
